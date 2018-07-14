@@ -236,10 +236,6 @@ function createDataContent(feature, entry) {
             popupContents += "<tr><td>情報更新日</td><td>" + feature.properties.情報更新日 + "</td></tr>" ;
         }
 
-        if (typeof feature.properties.確保水量 != 'undefined') {
-            popupContents += "<tr><td>確保水量</td><td>" + feature.properties.確保水量 + "</td></tr>" ;
-        }
-
         popupContents += "</table>" ;
     }
 
