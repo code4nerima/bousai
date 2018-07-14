@@ -110,7 +110,7 @@ function addEntry(entry, layerGroups) {
     $.getJSON(entry.url, function(data) { 
         layerGroupsCount++ ;
 
-        var layer = createDataLayer(data, entry.iconUrl) ;
+        var layer = createDataLayer(data, entry) ;
         var caption = "<span class=\"label\"><img src=\"" + entry.iconUrl + "\" width=\"30\"><span class=\"text\">" + entry.name + "</span></span>" ;
 
         layerGroups[caption] = L.layerGroup([layer]).addTo(map);
@@ -171,9 +171,9 @@ function addInfoLayer() {
 }
 
 // This function is for create data layer.
-function createDataLayer(data, iconUrl) {
+function createDataLayer(data, entry) {
     var markerIcon = L.icon({
-        iconUrl: iconUrl,
+        iconUrl: entry.iconUrl,
         iconSize: [50, 50],
         popupAnchor: [0, -20]
     });
@@ -183,7 +183,7 @@ function createDataLayer(data, iconUrl) {
             return L.marker(latlng, {icon: markerIcon});
         },
         onEachFeature: function(feature, layer) {
-            var popupContents = createDataContent(feature, iconUrl) ;
+            var popupContents = createDataContent(feature, entry) ;
 
             layer.bindPopup(popupContents);
  
@@ -208,46 +208,16 @@ function onMapClick(e) {
     $(".info").css("display", "none") ;
 }
 
-function createDataContent(feature, iconUrl) {
+function createDataContent(feature, entry) {
     var popupContents = '';
  
     if (feature && feature.properties) {   
-        popupContents = "<img src=\"" + iconUrl + "\"  width=\"30\"/>";  
-        popupContents += "<h2>" + feature.properties.投票所名称 + "</h2>";
+        popupContents = "<div><img src=\"" + entry.iconUrl + "\"  width=\"30\"/>" + '<span id="name">' +  entry.name + '</span></div>' ;
+        popupContents += "<h2>" + feature.properties.名称 + "</h2>";
         popupContents += "<table>"
         
-        if (feature.properties.選挙区 != "") {
-            popupContents += "<tr><td>選挙区　</td><td>" + feature.properties.選挙区 + "</td></tr>" ;
-        }
-
-        if (feature.properties.投票区 != "") {
-            popupContents += "<tr><td>投票区　</td><td>" + feature.properties.投票区 + "</td></tr>" ;
-        }
-        
-        if (feature.properties.投票所所在地 != "") {
-            popupContents += "<tr><td>所在地　</td><td>" + feature.properties.投票所所在地 + "</td></tr>" ;
-        }
-        
-        if (feature.properties.投票区区域 != "") {
-            var ignoreComma = false ;
-            var area = "" ; 
-
-            for (var i=0; i<feature.properties.投票区区域.length; i++) {
-
-                var c = feature.properties.投票区区域[i] ;
-
-                if (!ignoreComma && feature.properties.投票区区域[i] == ',') {
-                    c = '<br />' ;
-                } else if (feature.properties.投票区区域[i] == '(') {
-                    ignoreComma = true ;
-                } else if (feature.properties.投票区区域[i] == ')') {
-                    ignoreComma = false ;
-                }
-
-                area += c ;
-            }
-        
-            popupContents += '<tr><td>区域　</td><td class="area">' + area + "</td></tr>" ;
+        if (feature.properties.所在地 != "") {
+            popupContents += "<tr><td>所在地　</td><td>" + feature.properties.所在地 + "</td></tr>" ;
         }
         
         popupContents += "</table>" ;

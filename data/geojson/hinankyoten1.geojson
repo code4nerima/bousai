@@ -1,0 +1,1094 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6772026,35.73615903 ]
+    },
+    "properties": {
+    "名称":"旭丘小",
+    "所在地":"旭丘2-21-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.680369,35.74369425 ]
+    },
+    "properties": {
+    "名称":"小竹小",
+    "所在地":"小竹町2-6-7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6518827,35.73244262 ]
+    },
+    "properties": {
+    "名称":"豊玉小",
+    "所在地":"豊玉中4-2-20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6620826,35.73702576 ]
+    },
+    "properties": {
+    "名称":"豊玉第二小",
+    "所在地":"豊玉上2-16-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6679331,35.73211368 ]
+    },
+    "properties": {
+    "名称":"豊玉東小",
+    "所在地":"豊玉北1-16-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6562528,35.7271081 ]
+    },
+    "properties": {
+    "名称":"豊玉南小",
+    "所在地":"豊玉南2-14-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6436555,35.73049614 ]
+    },
+    "properties": {
+    "名称":"中村小",
+    "所在地":"中村2-8-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6353414,35.73354847 ]
+    },
+    "properties": {
+    "名称":"中村西小",
+    "所在地":"中村北4-17-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.635319,35.73673709 ]
+    },
+    "properties": {
+    "名称":"練馬第三小",
+    "所在地":"貫井1-36-15"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6507508,35.75174869 ]
+    },
+    "properties": {
+    "名称":"早宮小",
+    "所在地":"早宮4-10-17"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6578997,35.75413622 ]
+    },
+    "properties": {
+    "名称":"開進第一小",
+    "所在地":"早宮2-1-31"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6581924,35.74161575 ]
+    },
+    "properties": {
+    "名称":"開進第二小",
+    "所在地":"桜台5-10-5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6663473,35.74330379 ]
+    },
+    "properties": {
+    "名称":"開進第三小",
+    "所在地":"桜台2-18-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6720613,35.74737068 ]
+    },
+    "properties": {
+    "名称":"開進第四小",
+    "所在地":"羽沢2-33-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6680879,35.7574945 ]
+    },
+    "properties": {
+    "名称":"仲町小",
+    "所在地":"氷川台2-18-24"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6530862,35.74010934 ]
+    },
+    "properties": {
+    "名称":"南町小",
+    "所在地":"練馬2-7-5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6643963,35.76445877 ]
+    },
+    "properties": {
+    "名称":"北町小",
+    "所在地":"北町1-14-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6540604,35.7611845 ]
+    },
+    "properties": {
+    "名称":"北町西小",
+    "所在地":"北町7-3-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6365225,35.75197278 ]
+    },
+    "properties": {
+    "名称":"練馬小",
+    "所在地":"春日町6-11-36"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6337549,35.74082218 ]
+    },
+    "properties": {
+    "名称":"練馬第二小",
+    "所在地":"貫井2-31-13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6476642,35.75153593 ]
+    },
+    "properties": {
+    "名称":"練馬東小",
+    "所在地":"春日町1-30-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6439159,35.76535342 ]
+    },
+    "properties": {
+    "名称":"田柄小",
+    "所在地":"田柄2-19-19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6430224,35.75858434 ]
+    },
+    "properties": {
+    "名称":"田柄第二小",
+    "所在地":"田柄1-5-27"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.635122,35.76115379 ]
+    },
+    "properties": {
+    "名称":"光が丘秋の陽小",
+    "所在地":"光が丘2-1-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6405187,35.74013114 ]
+    },
+    "properties": {
+    "名称":"向山小",
+    "所在地":"向山2-14-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6272153,35.74909835 ]
+    },
+    "properties": {
+    "名称":"高松小",
+    "所在地":"高松3-16-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6402318,35.74645363 ]
+    },
+    "properties": {
+    "名称":"春日小",
+    "所在地":"春日町5-12-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6249988,35.76114498 ]
+    },
+    "properties": {
+    "名称":"光が丘四季の香小",
+    "所在地":"高松5-24-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6258509,35.75515161 ]
+    },
+    "properties": {
+    "名称":"光が丘春の風小",
+    "所在地":"光が丘7-2-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6319157,35.75681275 ]
+    },
+    "properties": {
+    "名称":"光が丘夏の雲小",
+    "所在地":"光が丘3-6-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6374841,35.7677163 ]
+    },
+    "properties": {
+    "名称":"光が丘第八小",
+    "所在地":"光が丘1-4-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6200495,35.73690604 ]
+    },
+    "properties": {
+    "名称":"石神井東小",
+    "所在地":"南田中3-9-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6059918,35.73174669 ]
+    },
+    "properties": {
+    "名称":"下石神井小",
+    "所在地":"下石神井2-20-18"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6071877,35.74564351 ]
+    },
+    "properties": {
+    "名称":"光和小",
+    "所在地":"石神井町2-16-34"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6139438,35.75020789 ]
+    },
+    "properties": {
+    "名称":"谷原小",
+    "所在地":"谷原2-9-26"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6112507,35.73650659 ]
+    },
+    "properties": {
+    "名称":"南田中小",
+    "所在地":"南田中5-15-37"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.617299,35.73336545 ]
+    },
+    "properties": {
+    "名称":"南が丘小",
+    "所在地":"南田中2-13-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6232012,35.74421405 ]
+    },
+    "properties": {
+    "名称":"富士見台小",
+    "所在地":"富士見台4-16-10"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.5993673,35.73503153 ]
+    },
+    "properties": {
+    "名称":"石神井小",
+    "所在地":"石神井台1-1-25"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.5806814,35.72350868 ]
+    },
+    "properties": {
+    "名称":"石神井西小",
+    "所在地":"関町北1-1-5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.5814778,35.73471969 ]
+    },
+    "properties": {
+    "名称":"石神井台小",
+    "所在地":"石神井台8-6-33"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.5890621,35.72716307 ]
+    },
+    "properties": {
+    "名称":"上石神井小",
+    "所在地":"上石神井4-10-9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.5888153,35.73524761 ]
+    },
+    "properties": {
+    "名称":"上石神井北小",
+    "所在地":"石神井台5-1-32"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.5808333,35.71768322 ]
+    },
+    "properties": {
+    "名称":"立野小",
+    "所在地":"立野町17-13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.5716185,35.72456978 ]
+    },
+    "properties": {
+    "名称":"関町小",
+    "所在地":"関町北3-23-34"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.5737374,35.73184295 ]
+    },
+    "properties": {
+    "名称":"関町北小",
+    "所在地":"関町北5-13-40"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6158573,35.76239115 ]
+    },
+    "properties": {
+    "名称":"豊溪小",
+    "所在地":"土支田2-26-28"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6273649,35.77222042 ]
+    },
+    "properties": {
+    "名称":"旭町小",
+    "所在地":"旭町2-29-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.599555,35.76532802 ]
+    },
+    "properties": {
+    "名称":"大泉第一小",
+    "所在地":"大泉町3-16-23"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.5914501,35.74821521 ]
+    },
+    "properties": {
+    "名称":"大泉東小",
+    "所在地":"東大泉1-22-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.5961881,35.76172853 ]
+    },
+    "properties": {
+    "名称":"大泉北小",
+    "所在地":"大泉町4-28-22"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.5932959,35.76528324 ]
+    },
+    "properties": {
+    "名称":"大泉学園小",
+    "所在地":"大泉学園町4-7-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6008602,35.75393784 ]
+    },
+    "properties": {
+    "名称":"泉新小",
+    "所在地":"三原台3-18-30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6023585,35.75849673 ]
+    },
+    "properties": {
+    "名称":"橋戸小",
+    "所在地":"大泉町2-11-25"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6117342,35.76834943 ]
+    },
+    "properties": {
+    "名称":"八坂小",
+    "所在地":"土支田4-48-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.5839093,35.75273022 ]
+    },
+    "properties": {
+    "名称":"大泉小",
+    "所在地":"東大泉4-25-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.5737061,35.74393535 ]
+    },
+    "properties": {
+    "名称":"大泉第二小",
+    "所在地":"南大泉4-29-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.5794345,35.76260749 ]
+    },
+    "properties": {
+    "名称":"大泉第三小",
+    "所在地":"大泉学園町3-22-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.5741313,35.7550255 ]
+    },
+    "properties": {
+    "名称":"大泉第四小",
+    "所在地":"西大泉1-24-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.5717676,35.75141342 ]
+    },
+    "properties": {
+    "名称":"大泉第六小",
+    "所在地":"南大泉5-25-29"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.5722383,35.76485206 ]
+    },
+    "properties": {
+    "名称":"大泉西小",
+    "所在地":"西大泉4-25-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.5812259,35.74424492 ]
+    },
+    "properties": {
+    "名称":"大泉南小",
+    "所在地":"東大泉6-28-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.58525,35.76584784 ]
+    },
+    "properties": {
+    "名称":"大泉学園緑小",
+    "所在地":"大泉学園町5-11-47"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.5916925,35.77637148 ]
+    },
+    "properties": {
+    "名称":"大泉桜学園（大泉学園桜小）",
+    "所在地":"大泉学園町9-2-2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6137677,35.75536262 ]
+    },
+    "properties": {
+    "名称":"北原小",
+    "所在地":"谷原4-9-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6779457,35.73750996 ]
+    },
+    "properties": {
+    "名称":"旭丘中",
+    "所在地":"旭丘2-40-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6577628,35.7285104 ]
+    },
+    "properties": {
+    "名称":"豊玉中",
+    "所在地":"豊玉南2-1-20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6638882,35.73558929 ]
+    },
+    "properties": {
+    "名称":"豊玉第二中",
+    "所在地":"豊玉北2-24-5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.645358,35.72735567 ]
+    },
+    "properties": {
+    "名称":"中村中",
+    "所在地":"中村南1-32-21"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6588251,35.75148432 ]
+    },
+    "properties": {
+    "名称":"開進第一中",
+    "所在地":"早宮1-16-50"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6534293,35.74316943 ]
+    },
+    "properties": {
+    "名称":"開進第二中",
+    "所在地":"練馬2-27-28"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6656521,35.74516621 ]
+    },
+    "properties": {
+    "名称":"開進第三中",
+    "所在地":"桜台3-28ｰ1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6743103,35.75043875 ]
+    },
+    "properties": {
+    "名称":"開進第四中",
+    "所在地":"羽沢3-24-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6568088,35.76658743 ]
+    },
+    "properties": {
+    "名称":"北町中",
+    "所在地":"北町3-1-34"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6352877,35.74668644 ]
+    },
+    "properties": {
+    "名称":"練馬中",
+    "所在地":"高松1-24-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6482663,35.75688345 ]
+    },
+    "properties": {
+    "名称":"練馬東中",
+    "所在地":"春日町2-14-22"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.632745,35.73870753 ]
+    },
+    "properties": {
+    "名称":"貫井中",
+    "所在地":"貫井2-14-13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.641265,35.75894362 ]
+    },
+    "properties": {
+    "名称":"田柄中",
+    "所在地":"田柄3-3-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6282645,35.7735822 ]
+    },
+    "properties": {
+    "名称":"豊溪中",
+    "所在地":"旭町3-5-10"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6223456,35.75908787 ]
+    },
+    "properties": {
+    "名称":"光が丘第一中",
+    "所在地":"光が丘6-5-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6257635,35.75399537 ]
+    },
+    "properties": {
+    "名称":"光が丘第二中",
+    "所在地":"光が丘7-1-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6307889,35.75548451 ]
+    },
+    "properties": {
+    "名称":"光が丘第三中",
+    "所在地":"光が丘3-2-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6337096,35.76113712 ]
+    },
+    "properties": {
+    "名称":"光が丘第四中",
+    "所在地":"光が丘2-5-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.5960069,35.74063745 ]
+    },
+    "properties": {
+    "名称":"石神井中",
+    "所在地":"石神井台1-32-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6171131,35.74192454 ]
+    },
+    "properties": {
+    "名称":"石神井東中",
+    "所在地":"高野台1-8-34"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.5805927,35.71994334 ]
+    },
+    "properties": {
+    "名称":"石神井西中",
+    "所在地":"関町南3-10-3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6086874,35.72982022 ]
+    },
+    "properties": {
+    "名称":"石神井南中",
+    "所在地":"下石神井2-7-23"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.5883307,35.72798129 ]
+    },
+    "properties": {
+    "名称":"上石神井中",
+    "所在地":"上石神井4-15-27"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6133022,35.73328547 ]
+    },
+    "properties": {
+    "名称":"南が丘中",
+    "所在地":"南田中4-8-23"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6153507,35.75570666 ]
+    },
+    "properties": {
+    "名称":"谷原中",
+    "所在地":"谷原4-10-5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.5992983,35.75432356 ]
+    },
+    "properties": {
+    "名称":"三原台中",
+    "所在地":"三原台3-13-41"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.5855083,35.75328119 ]
+    },
+    "properties": {
+    "名称":"大泉中",
+    "所在地":"東大泉4-27-35"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.5831227,35.74449233 ]
+    },
+    "properties": {
+    "名称":"大泉第二中",
+    "所在地":"東大泉6-21-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.5795287,35.75789666 ]
+    },
+    "properties": {
+    "名称":"大泉西中",
+    "所在地":"西大泉3-19-27"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.5968809,35.75915291 ]
+    },
+    "properties": {
+    "名称":"大泉北中",
+    "所在地":"大泉町5-4-32"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.5897265,35.7660552 ]
+    },
+    "properties": {
+    "名称":"大泉学園中",
+    "所在地":"大泉学園町4-17-32"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.5904884,35.77682505 ]
+    },
+    "properties": {
+    "名称":"大泉桜学園（大泉学園桜中）",
+    "所在地":"大泉学園町9-2-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.574973,35.73032402 ]
+    },
+    "properties": {
+    "名称":"関中",
+    "所在地":"関町北4-34-23"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6126357,35.76921585 ]
+    },
+    "properties": {
+    "名称":"八坂中",
+    "所在地":"土支田4-47-21"
+    }
+  }
+]
+}

@@ -1,0 +1,60 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.5826057,35.77187107 ]
+    },
+    "properties": {
+    "名称":"区立大泉公園内",
+    "設置場所":"大泉学園町6-25"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.656607,35.75308929 ]
+    },
+    "properties": {
+    "名称":"区立はやいち公園",
+    "設置場所":"早宮1-47-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6491383,35.7305802 ]
+    },
+    "properties": {
+    "名称":"区立学田公園内",
+    "設置場所":"豊玉南3-32"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.630839,35.76541945 ]
+    },
+    "properties": {
+    "名称":"練馬給水所",
+    "設置場所":"光が丘2-4-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.5985335,35.747983 ]
+    },
+    "properties": {
+    "名称":"みんなの広場公園",
+    "設置場所":"石神井町８−４１"
+    }
+  }
+]
+}

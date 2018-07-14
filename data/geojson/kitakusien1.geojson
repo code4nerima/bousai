@@ -1,0 +1,82 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6537568,35.73919744 ]
+    },
+    "properties": {
+    "名称":"練馬文化センター",
+    "所在地":"練馬1-17-37"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6297689,35.75940451 ]
+    },
+    "properties": {
+    "名称":"光が丘区民ホール",
+    "所在地":"光が丘2-9-6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6213123,35.74803575 ]
+    },
+    "properties": {
+    "名称":"生涯学習センター分館",
+    "所在地":"高野台2-25-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6076709,35.7441359 ]
+    },
+    "properties": {
+    "名称":"石神井公園区民交流センター",
+    "所在地":"石神井町2-14-1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.5776102,35.72466261 ]
+    },
+    "properties": {
+    "名称":"関区民ホール",
+    "所在地":"関町北1-7-2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.5873817,35.74821967 ]
+    },
+    "properties": {
+    "名称":"勤労福祉会館",
+    "所在地":"東大泉5-40-36"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6536342,35.73809868 ]
+    },
+    "properties": {
+    "名称":"区民・産業プラザ",
+    "所在地":"練馬1-17-1"
+    }
+  }
+]
+}

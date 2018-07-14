@@ -1,14 +1,19 @@
 {
     "entries":[
         {
-            "name" : "投票所",
-            "url" : "./data/geojson/touhyoujo.geojson",
+            "name" : "避難拠点",
+            "url" : "./data/geojson/hinankyoten1.geojson",
             "iconUrl" : "./data/icon/icon_00.png"
         },
         {
-            "name" : "期日前投票所",
-            "url" : "./data/geojson/kijituzentouhyoujo.geojson",
+            "name" : "帰宅支援ステーション",
+            "url" : "./data/geojson/kitakusien1.geojson",
             "iconUrl" : "./data/icon/icon_01.png"
+        },
+		{
+            "name" : "災害時給水ステーション",
+            "url" : "./data/geojson/kyuusui1.geojson",
+            "iconUrl" : "./data/icon/icon_02.png"
         }
     ]
 }
