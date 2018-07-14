@@ -14,6 +14,11 @@
             "name" : "災害時給水ステーション",
             "url" : "./data/geojson/kyuusui1.geojson",
             "iconUrl" : "./data/icon/icon_02.png"
+        },
+		{
+            "name" : "避難拠点（板橋区）",
+            "url" : "./data/geojson/hinankyoten2.geojson",
+            "iconUrl" : "./data/icon/icon_00.png"
         }
     ]
 }

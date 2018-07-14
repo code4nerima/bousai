@@ -1,0 +1,1241 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.647923,35.779646 ]
+    },
+    "properties": {
+    "名称":"赤塚第三中学校",
+    "所在地":"東京都板橋区赤塚7-27-15",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.637485,35.790349 ]
+    },
+    "properties": {
+    "名称":"三園小学校",
+    "所在地":"東京都板橋区三園1-24-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.651867,35.77138 ]
+    },
+    "properties": {
+    "名称":"赤塚第一中学校",
+    "所在地":"東京都板橋区徳丸4-13-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.678877,35.761477 ]
+    },
+    "properties": {
+    "名称":"上板橋第四小学校",
+    "所在地":"東京都板橋区上板橋1-3-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.675364,35.769253 ]
+    },
+    "properties": {
+    "名称":"若木小学校",
+    "所在地":"東京都板橋区若木1-14-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.666632,35.771782 ]
+    },
+    "properties": {
+    "名称":"徳丸小学校",
+    "所在地":"東京都板橋区徳丸1-21-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.67041,35.784466 ]
+    },
+    "properties": {
+    "名称":"高島第六小学校",
+    "所在地":"東京都板橋区高島平1-50-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.640431,35.777674 ]
+    },
+    "properties": {
+    "名称":"赤塚小学校",
+    "所在地":"東京都板橋区赤塚3-1-22",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.633193,35.780612 ]
+    },
+    "properties": {
+    "名称":"赤塚第二中学校",
+    "所在地":"東京都板橋区成増3-18-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.690016,35.750727 ]
+    },
+    "properties": {
+    "名称":"大谷口小学校",
+    "所在地":"東京都板橋区大谷口北町21-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.704797,35.745537 ]
+    },
+    "properties": {
+    "名称":"板橋第七小学校",
+    "所在地":"東京都板橋区大山金井町31-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.704646,35.741471 ]
+    },
+    "properties": {
+    "名称":"板橋第五小学校",
+    "所在地":"東京都板橋区中丸町19-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.682274,35.763464 ]
+    },
+    "properties": {
+    "名称":"上板橋第三中学校",
+    "所在地":"東京都板橋区常盤台3-30-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.680665,35.783748 ]
+    },
+    "properties": {
+    "名称":"志村第六小学校",
+    "所在地":"東京都板橋区坂下2-18-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.70153,35.766343 ]
+    },
+    "properties": {
+    "名称":"志村第一小学校",
+    "所在地":"東京都板橋区泉町17-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.710493,35.748766 ]
+    },
+    "properties": {
+    "名称":"板橋第二小学校",
+    "所在地":"東京都板橋区板橋2-52-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.716552,35.749913 ]
+    },
+    "properties": {
+    "名称":"板橋第四小学校",
+    "所在地":"東京都板橋区板橋4-9-13",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.700879,35.755954 ]
+    },
+    "properties": {
+    "名称":"中根橋小学校",
+    "所在地":"東京都板橋区栄町14-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.706853,35.755784 ]
+    },
+    "properties": {
+    "名称":"板橋第三中学校",
+    "所在地":"東京都板橋区氷川町22-3",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.701372,35.780362 ]
+    },
+    "properties": {
+    "名称":"志村第四小学校",
+    "所在地":"東京都板橋区小豆沢4-13-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.677879,35.788162 ]
+    },
+    "properties": {
+    "名称":"蓮根第二小学校",
+    "所在地":"東京都板橋区蓮根3-15-5",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.687573,35.768374 ]
+    },
+    "properties": {
+    "名称":"前野小学校",
+    "所在地":"東京都板橋区前野町6-40-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.681648,35.793635 ]
+    },
+    "properties": {
+    "名称":"舟渡小学校",
+    "所在地":"東京都板橋区舟渡3-6-15",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.695353,35.763863 ]
+    },
+    "properties": {
+    "名称":"富士見台小学校",
+    "所在地":"東京都板橋区前野町1-10-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.685155,35.773131 ]
+    },
+    "properties": {
+    "名称":"北前野小学校",
+    "所在地":"東京都板橋区前野町5-44-3",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.697837,35.772575 ]
+    },
+    "properties": {
+    "名称":"志村第二小学校",
+    "所在地":"東京都板橋区志村1-7-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.68634,35.755042 ]
+    },
+    "properties": {
+    "名称":"上板橋小学校",
+    "所在地":"東京都板橋区東山町47-3",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.636166,35.769406 ]
+    },
+    "properties": {
+    "名称":"赤塚新町小学校",
+    "所在地":"東京都板橋区赤塚新町3-31-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.665068,35.793775 ]
+    },
+    "properties": {
+    "名称":"新河岸小学校",
+    "所在地":"東京都板橋区新河岸1-3-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.679454,35.772415 ]
+    },
+    "properties": {
+    "名称":"緑小学校",
+    "所在地":"東京都板橋区中台3-27-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.651189,35.788383 ]
+    },
+    "properties": {
+    "名称":"高島第三中学校",
+    "所在地":"東京都板橋区高島平4-22-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.67852,35.755105 ]
+    },
+    "properties": {
+    "名称":"桜川小学校",
+    "所在地":"東京都板橋区東新町2-29-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.681186,35.747649 ]
+    },
+    "properties": {
+    "名称":"上板橋第二中学校",
+    "所在地":"東京都板橋区小茂根1-2-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.716525,35.759555 ]
+    },
+    "properties": {
+    "名称":"加賀中学校",
+    "所在地":"東京都板橋区加賀2-19-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.702965,35.775469 ]
+    },
+    "properties": {
+    "名称":"志村第二中学校",
+    "所在地":"東京都板橋区小豆沢1-21-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.657229,35.786856 ]
+    },
+    "properties": {
+    "名称":"高島第五小学校",
+    "所在地":"東京都板橋区高島平3-11-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.631891,35.77436 ]
+    },
+    "properties": {
+    "名称":"成増小学校",
+    "所在地":"東京都板橋区成増1-11-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.634372,35.780861 ]
+    },
+    "properties": {
+    "名称":"成増ヶ丘小学校",
+    "所在地":"東京都板橋区成増3-17-7",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.68096,35.766426 ]
+    },
+    "properties": {
+    "名称":"中台小学校",
+    "所在地":"東京都板橋区中台1-9-7",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.668501,35.77699 ]
+    },
+    "properties": {
+    "名称":"志村第五小学校",
+    "所在地":"東京都板橋区西台3-38-23",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.676931,35.756217 ]
+    },
+    "properties": {
+    "名称":"桜川中学校",
+    "所在地":"東京都板橋区桜川1-2-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.680154,35.769226 ]
+    },
+    "properties": {
+    "名称":"中台中学校",
+    "所在地":"東京都板橋区中台1-56-23",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.679919,35.778809 ]
+    },
+    "properties": {
+    "名称":"志村坂下小学校",
+    "所在地":"東京都板橋区相生町26-14",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.657229,35.780987 ]
+    },
+    "properties": {
+    "名称":"紅梅小学校",
+    "所在地":"東京都板橋区徳丸8-10-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.657123,35.771592 ]
+    },
+    "properties": {
+    "名称":"北野小学校",
+    "所在地":"東京都板橋区徳丸3-23-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.671868,35.78199 ]
+    },
+    "properties": {
+    "名称":"西台中学校",
+    "所在地":"東京都板橋区高島平1-4-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.663106,35.791888 ]
+    },
+    "properties": {
+    "名称":"高島第一中学校",
+    "所在地":"東京都板橋区高島平8-26-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.661997,35.784944 ]
+    },
+    "properties": {
+    "名称":"高島第二小学校",
+    "所在地":"東京都板橋区高島平2-25-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.660606,35.785264 ]
+    },
+    "properties": {
+    "名称":"高島第二中学校",
+    "所在地":"東京都板橋区高島平2-24-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.649969,35.788867 ]
+    },
+    "properties": {
+    "名称":"高島第三小学校",
+    "所在地":"東京都板橋区高島平4-21-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.643176,35.77435 ]
+    },
+    "properties": {
+    "名称":"下赤塚小学校",
+    "所在地":"東京都板橋区赤塚6-14-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.659838,35.791973 ]
+    },
+    "properties": {
+    "名称":"高島第一小学校",
+    "所在地":"東京都板橋区高島平7-24-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.700271,35.747149 ]
+    },
+    "properties": {
+    "名称":"板橋第六小学校",
+    "所在地":"東京都板橋区大山町13-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.692597,35.747584 ]
+    },
+    "properties": {
+    "名称":"板橋第十小学校",
+    "所在地":"東京都板橋区大谷口上町43-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.679838,35.747527 ]
+    },
+    "properties": {
+    "名称":"上板橋第二小学校",
+    "所在地":"東京都板橋区小茂根1-14-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.694321,35.753655 ]
+    },
+    "properties": {
+    "名称":"弥生小学校",
+    "所在地":"東京都板橋区弥生町19-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.697052,35.745875 ]
+    },
+    "properties": {
+    "名称":"板橋第二中学校",
+    "所在地":"東京都板橋区幸町26-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.691227,35.75683 ]
+    },
+    "properties": {
+    "名称":"上板橋第一中学校",
+    "所在地":"東京都板橋区南常盤台1-1-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.685515,35.744271 ]
+    },
+    "properties": {
+    "名称":"向原中学校",
+    "所在地":"東京都板橋区向原3-1-12",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.681794,35.741521 ]
+    },
+    "properties": {
+    "名称":"向原小学校",
+    "所在地":"東京都板橋区向原2-34-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.69709,35.767193 ]
+    },
+    "properties": {
+    "名称":"志村第一中学校",
+    "所在地":"東京都板橋区大原町33-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.70737,35.753492 ]
+    },
+    "properties": {
+    "名称":"板橋第一小学校",
+    "所在地":"東京都板橋区氷川町13-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.705041,35.766991 ]
+    },
+    "properties": {
+    "名称":"志村第三小学校",
+    "所在地":"東京都板橋区清水町83-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.714983,35.755219 ]
+    },
+    "properties": {
+    "名称":"金沢小学校",
+    "所在地":"東京都板橋区加賀2-2-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.704246,35.754684 ]
+    },
+    "properties": {
+    "名称":"板橋第九小学校",
+    "所在地":"東京都板橋区栄町6-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.704816,35.750446 ]
+    },
+    "properties": {
+    "名称":"板橋第一中学校",
+    "所在地":"東京都板橋区大山東町50-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.710557,35.7615 ]
+    },
+    "properties": {
+    "名称":"加賀小学校",
+    "所在地":"東京都板橋区稲荷台23-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.719646,35.752434 ]
+    },
+    "properties": {
+    "名称":"板橋第五中学校",
+    "所在地":"東京都板橋区板橋4-49-3",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.700039,35.759547 ]
+    },
+    "properties": {
+    "名称":"板橋第八小学校",
+    "所在地":"東京都板橋区双葉町42-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.683645,35.783501 ]
+    },
+    "properties": {
+    "名称":"志村第三中学校",
+    "所在地":"東京都板橋区坂下2-21-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.684055,35.776564 ]
+    },
+    "properties": {
+    "名称":"志村第四中学校",
+    "所在地":"東京都板橋区志村3-15-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.691235,35.759507 ]
+    },
+    "properties": {
+    "名称":"常盤台小学校",
+    "所在地":"東京都板橋区常盤台1-6-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.685891,35.782394 ]
+    },
+    "properties": {
+    "名称":"志村第五中学校",
+    "所在地":"東京都板橋区坂下2-1-20",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.676631,35.787705 ]
+    },
+    "properties": {
+    "名称":"蓮根小学校",
+    "所在地":"東京都板橋区蓮根3-10-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.686193,35.775177 ]
+    },
+    "properties": {
+    "名称":"志村小学校",
+    "所在地":"東京都板橋区志村2-16-3",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.640725,35.76931 ]
+    },
+    "properties": {
+    "名称":"医療法人社団慈誠会介護老人保健施設赤塚園",
+    "所在地":"東京都板橋区赤塚新町3-33-27",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.694314,35.772052 ]
+    },
+    "properties": {
+    "名称":"医療法人社団明芳会介護老人保健施設板橋ロイヤルケアセンター",
+    "所在地":"東京都板橋区前野町3-46-3",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.650743,35.783285 ]
+    },
+    "properties": {
+    "名称":"医療法人財団朔望会介護老人保健施設エーデルワイス",
+    "所在地":"東京都板橋区四葉2-21-16",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.683935,35.786379 ]
+    },
+    "properties": {
+    "名称":"医療法人財団健康文化会介護老人保健施設志村さつき苑",
+    "所在地":"東京都板橋区坂下3-7-6",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.720813,35.753941 ]
+    },
+    "properties": {
+    "名称":"財団法人愛世会介護老人保健施設シルバーピア加賀",
+    "所在地":"東京都板橋区加賀1-3-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.67691,35.790777 ]
+    },
+    "properties": {
+    "名称":"医療法人社団翠会介護老人保健施設蓮根ひまわり苑",
+    "所在地":"東京都板橋区蓮根3-25-4",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.692882,35.767856 ]
+    },
+    "properties": {
+    "名称":"医療法人財団朔望会介護老人保健施設プリムローズ",
+    "所在地":"東京都板橋区前野町3-8-7",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.687625,35.759065 ]
+    },
+    "properties": {
+    "名称":"社会福祉法人ＪＨＣ板橋会ＪＨＣ板橋会本部",
+    "所在地":"東京都板橋区南常盤台2-1-7",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.694638,35.781274 ]
+    },
+    "properties": {
+    "名称":"社会福祉法人東京援護協会板橋区立小豆沢福祉園",
+    "所在地":"東京都板橋区東坂下1-4-9",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.640621,35.793206 ]
+    },
+    "properties": {
+    "名称":"社会福祉法人東京援護協会板橋区立三園福祉園",
+    "所在地":"東京都板橋区三園2-9-6",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.668187,35.790479 ]
+    },
+    "properties": {
+    "名称":"社会福祉法人東京援護協会板橋区立高島平福祉園",
+    "所在地":"東京都板橋区高島平9-25-12",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.678804,35.750292 ]
+    },
+    "properties": {
+    "名称":"社会福祉法人恩賜財団東京都同胞援護会板橋区立小茂根福祉園",
+    "所在地":"東京都板橋区小茂根3-12-21",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.656376,35.775657 ]
+    },
+    "properties": {
+    "名称":"社会福祉法人大泉旭出学園板橋区立徳丸福祉園",
+    "所在地":"東京都板橋区徳丸3-41-16",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.645237,35.777002 ]
+    },
+    "properties": {
+    "名称":"社会福祉法人嬉泉板橋区立赤塚福祉園",
+    "所在地":"東京都板橋区赤塚6-19-14",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.689949,35.771566 ]
+    },
+    "properties": {
+    "名称":"社会福祉法人東京援護協会板橋区立前野福祉園",
+    "所在地":"東京都板橋区前野町4-16-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.683314,35.781577 ]
+    },
+    "properties": {
+    "名称":"社会福祉法人東京援護協会板橋区立蓮根福祉園",
+    "所在地":"東京都板橋区坂下2-8-1-101",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.718751,35.754189 ]
+    },
+    "properties": {
+    "名称":"社会福祉法人同愛会板橋区立加賀福祉園",
+    "所在地":"東京都板橋区加賀1-7-2",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.715115,35.754343 ]
+    },
+    "properties": {
+    "名称":"社会福祉法人寿栄会特別養護老人ホーム北東京寿栄園",
+    "所在地":"東京都板橋区加賀2-1-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6811,35.79257 ]
+    },
+    "properties": {
+    "名称":"社会福祉法人不二健育会特別養護老人ホームケアポート板橋",
+    "所在地":"東京都板橋区舟渡3-4-8",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.635258,35.783295 ]
+    },
+    "properties": {
+    "名称":"社会福祉法人みその福祉会特別養護老人ホームケアタウン成増",
+    "所在地":"東京都板橋区成増4-14-18",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.675632,35.747043 ]
+    },
+    "properties": {
+    "名称":"社会福祉法人小茂根の郷特別養護老人ホーム東京武蔵野ホーム",
+    "所在地":"東京都板橋区小茂根4-11-11",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.650509,35.783723 ]
+    },
+    "properties": {
+    "名称":"社会福祉法人四葉晃耀会特別養護老人ホームブルーポピー",
+    "所在地":"東京都板橋区大門8-5",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.657173,35.775006 ]
+    },
+    "properties": {
+    "名称":"社会福祉法人北野会特別養護老人ホームマイライフ徳丸",
+    "所在地":"東京都板橋区徳丸3-32-28",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.634549,35.786442 ]
+    },
+    "properties": {
+    "名称":"社会福祉法人翠生会特別養護老人ホーム音羽台レジデンス",
+    "所在地":"東京都板橋区成増4-33-1",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.671958,35.767822 ]
+    },
+    "properties": {
+    "名称":"社会福祉法人信隆会特別養護老人ホーム若木ライフ",
+    "所在地":"東京都板橋区若木1-21-3",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.685144,35.770981 ]
+    },
+    "properties": {
+    "名称":"社会福祉法人至誠学舎東京東京都板橋区立特別養護老人ホームみどりの苑",
+    "所在地":"東京都板橋区前野町5-9-3",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.690117,35.783181 ]
+    },
+    "properties": {
+    "名称":"社会福祉法人東京援護協会東京都板橋区立特別養護老人ホームいずみの苑",
+    "所在地":"東京都板橋区東坂下2-2-22",
+    "FIELD5":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.693924,35.771461 ]
+    },
+    "properties": {
+    "名称":"社会福祉法人福翠会特別養護老人ホーム板橋の里英智園",
+    "所在地":"東京都板橋区前野町3-45-7",
+    "FIELD5":""
+    }
+  }
+]
+}

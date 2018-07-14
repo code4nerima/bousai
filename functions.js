@@ -174,7 +174,7 @@ function addInfoLayer() {
 function createDataLayer(data, entry) {
     var markerIcon = L.icon({
         iconUrl: entry.iconUrl,
-        iconSize: [50, 50],
+        iconSize: [35, 35],
         popupAnchor: [0, -20]
     });
 
