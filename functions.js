@@ -235,7 +235,7 @@ function createDataContent(feature, entry) {
         if (typeof feature.properties.情報更新日 != 'undefined') {
             popupContents += "<tr><td>情報更新日</td><td>" + feature.properties.情報更新日 + "</td></tr>" ;
         }
-
+        
         popupContents += "</table>" ;
     }
 
