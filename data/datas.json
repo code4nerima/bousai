@@ -6,19 +6,19 @@
             "iconUrl" : "./data/icon/icon_00.png"
         },
         {
+            "name" : "避難拠点（板橋区）",
+            "url" : "./data/geojson/hinankyoten2.geojson",
+            "iconUrl" : "./data/icon/icon_00.png"
+        },
+        {
             "name" : "帰宅支援ステーション",
             "url" : "./data/geojson/kitakusien1.geojson",
             "iconUrl" : "./data/icon/icon_01.png"
         },
-		{
-            "name" : "災害時給水ステーション",
-            "url" : "./data/geojson/kyuusui1.geojson",
+        {
+            "name" : "給水拠点（東京都）",
+            "url" : "./data/geojson/kyuusui_tokyo.geojson",
             "iconUrl" : "./data/icon/icon_02.png"
-        },
-		{
-            "name" : "避難拠点（板橋区）",
-            "url" : "./data/geojson/hinankyoten2.geojson",
-            "iconUrl" : "./data/icon/icon_00.png"
         }
     ]
 }

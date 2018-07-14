@@ -216,10 +216,30 @@ function createDataContent(feature, entry) {
         popupContents += "<h2>" + feature.properties.名称 + "</h2>";
         popupContents += "<table>"
         
-        if (feature.properties.所在地 != "") {
+        if (typeof feature.properties.所在地 != 'undefined') {
             popupContents += "<tr><td>所在地　</td><td>" + feature.properties.所在地 + "</td></tr>" ;
         }
         
+        if (typeof feature.properties.種別 != 'undefined') {
+            popupContents += "<tr><td>種別　</td><td>" + feature.properties.種別 + "</td></tr>" ;
+        }
+
+        if (typeof feature.properties.確保水量 != 'undefined') {
+            popupContents += "<tr><td>確保水量</td><td>" + feature.properties.確保水量 + "㎥</td></tr>" ;
+        }
+
+        if (typeof feature.properties.詳細画像 != 'undefined') {
+            popupContents += '<tr><td>詳細画像</td><td><a href="' + feature.properties.詳細画像 + '" target="blank">詳細画像</a></td></tr>' ;
+        }
+
+        if (typeof feature.properties.情報更新日 != 'undefined') {
+            popupContents += "<tr><td>情報更新日</td><td>" + feature.properties.情報更新日 + "</td></tr>" ;
+        }
+
+        if (typeof feature.properties.確保水量 != 'undefined') {
+            popupContents += "<tr><td>確保水量</td><td>" + feature.properties.確保水量 + "</td></tr>" ;
+        }
+
         popupContents += "</table>" ;
     }
 
