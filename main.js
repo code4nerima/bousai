@@ -4,9 +4,9 @@ var info ;
 function main() {
 	var c = $.cookie() ;
 
-	var lat = $.cookie('touhyoujyo_lat');
-	var lng = $.cookie('touhyoujyo_lng');
-	var zoom = $.cookie('touhyoujyo_zoom');
+	var lat = $.cookie('bousai_lat');
+	var lng = $.cookie('bousai_lng');
+	var zoom = $.cookie('bousai_zoom');
 	
 	var latlng = [35.737841, 139.653912];
 
@@ -51,7 +51,7 @@ function main() {
 function saveMap() {
     var c = map.getCenter() ;
         var z = map.getZoom() ;
-        $.cookie('touhyoujyo_lat', c.lat, { expires: 7, path: '/' });
-        $.cookie('touhyoujyo_lng', c.lng, { expires: 7, path: '/' });
-        $.cookie('touhyoujyo_zoom', z, { expires: 7, path: '/' });
+        $.cookie('bousai_lat', c.lat, { expires: 7, path: '/' });
+        $.cookie('bousai_lng', c.lng, { expires: 7, path: '/' });
+        $.cookie('bousai_zoom', z, { expires: 7, path: '/' });
 }
