@@ -75,7 +75,7 @@ function onCreate() {
         showLayers(map._zoom)
     });
 
-    layerControl = L.control.layers(null, null, {collapsed: false, position: 'topleft'}).addTo(map) ;
+    layerControl = L.control.layers(null, null, {collapsed: true, position: 'topleft'}).addTo(map) ;
 
     addInfoLayer();
     
