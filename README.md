@@ -1,5 +1,7 @@
 # 防災情報アラねりマップ
 
+https://code4nerima.github.io/bousai/
+
 このプロジェクトはCode for Nerimaのプロジェクトです。
 素材として練馬区のオープンデータを使用しています。
 
