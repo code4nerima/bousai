@@ -7,6 +7,7 @@ var layers ;
 var currentBusStopLayers ;
 var basicBusStopLayers ;
 var filteredBusStopLayers ;
+var layerControl ;
 
 // onCreate : This function is called when page began.
 function onCreate() {
@@ -74,6 +75,8 @@ function onCreate() {
         showLayers(map._zoom)
     });
 
+    layerControl = L.control.layers(null, null, {collapsed: false, position: 'topleft'}).addTo(map) ;
+
     addInfoLayer();
     
     // datas
@@ -113,12 +116,19 @@ function addEntry(entry, layerGroups) {
         var layer = createDataLayer(data, entry) ;
         var caption = "<span class=\"label\"><img src=\"" + entry.iconUrl + "\" width=\"30\"><span class=\"text\">" + entry.name + "</span></span>" ;
 
-        layerGroups[caption] = L.layerGroup([layer]).addTo(map);
+        if (typeof entry.hidden != "undefined" && entry.hidden == true) {
+
+        } else {
+            map.addLayer(layer) ;
+        }
+        
+        layerControl.addOverlay(layer, caption) ;
+        //layerGroups[caption] = L.layerGroup([layer]).addTo(map);
+
         //layer.addTo(map) ;
 
         if (layerGroupsCount == layerGroupsTotalCount) {
-            var control = L.control.layers(null, layerGroups, {collapsed: true, position: 'topleft'}) ;
-            control.addTo(map);
+            
         }
     }) ;
 }
