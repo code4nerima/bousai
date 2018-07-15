@@ -239,7 +239,7 @@ function createDataContent(feature, entry) {
         }
 
         if (typeof feature.properties.詳細画像 != 'undefined') {
-            popupContents += '<tr><td>詳細画像</td><td><a href="' + feature.properties.詳細画像 + '" target="blank">詳細画像</a></td></tr>' ;
+            popupContents += '<tr><td>詳細画像</td><td><img src="' + feature.properties.詳細画像 + '" width="300"/></td></tr>' ;
         }
 
         if (typeof feature.properties.情報更新日 != 'undefined') {
