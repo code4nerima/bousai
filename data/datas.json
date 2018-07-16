@@ -18,6 +18,11 @@
             "hidden" : true
         },
         {
+            "name" : "福祉避難所（練馬区＋練馬区周辺）",
+            "url" : "./data/geojson/hinanshisetsu_fukushi.geojson",
+            "iconUrl" : "./data/icon/icon_hinanshisetsu_fukushi.png"
+        },
+        {
             "name" : "帰宅支援ステーション（練馬区）",
             "url" : "./data/geojson/kitakusien1.geojson",
             "iconUrl" : "./data/icon/icon_01.png"
