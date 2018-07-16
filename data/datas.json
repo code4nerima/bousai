@@ -6,7 +6,7 @@
             "iconUrl" : "./data/icon/icon_hinankyoten00.png"
         },
         {
-            "name" : "避難拠点（板橋区）",
+            "name" : "避難所（板橋区）",
             "url" : "./data/geojson/hinankyoten2.geojson",
             "iconUrl" : "./data/icon/icon_hinankyoten01.png"
         },
