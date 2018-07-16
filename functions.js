@@ -75,23 +75,26 @@ function onCreate() {
         showLayers(map._zoom)
     });
 
-    layerControl = L.control.layers(null, null, {collapsed: true, position: 'topleft'}).addTo(map) ;
-
     addInfoLayer();
     
     // datas
     var layerGroups = Array();
-    layerGroupsTotalCount = 0 ;
-    layerGroupsCount = 0 ;
-
+    
     $.getJSON('./data/datas.json', function(data) { 
         var entries = data.entries ;
-
         layerGroupsTotalCount = entries.length ;
+        layerGroupsCount = 0 ;
 
         for (var i=0; i<entries.length; i++) {
             var entry = entries[i] ;
-            addEntry(entry, layerGroups) ;
+            var caption = "<span class=\"label\"><img src=\"" + entry.iconUrl + "\" width=\"30\"><span class=\"text\">" + entry.name + "</span></span>" ;
+            layerGroups[caption] = null;
+        }
+
+        for (var i=0; i<entries.length; i++) {
+            var entry = entries[i] ;
+            var caption = "<span class=\"label\"><img src=\"" + entry.iconUrl + "\" width=\"30\"><span class=\"text\">" + entry.name + "</span></span>" ;
+            addEntry(caption, entry, layerGroups) ;
         }
     }) ;
 
@@ -109,26 +112,20 @@ function onCreate() {
 var layerGroupsTotalCount = 0 ;
 var layerGroupsCount = 0 ;
 
-function addEntry(entry, layerGroups) {
+function addEntry(caption, entry, layerGroups) {
     $.getJSON(entry.url, function(data) { 
         layerGroupsCount++ ;
 
         var layer = createDataLayer(data, entry) ;
-        var caption = "<span class=\"label\"><img src=\"" + entry.iconUrl + "\" width=\"30\"><span class=\"text\">" + entry.name + "</span></span>" ;
+ 
+        layerGroups[caption] = L.layerGroup([layer]) ;
 
-        if (typeof entry.hidden != "undefined" && entry.hidden == true) {
-
-        } else {
-            map.addLayer(layer) ;
+        if (typeof entry.hidden == "undefined" || entry.hidden == false) {
+            layerGroups[caption].addTo(map) ;
         }
-        
-        layerControl.addOverlay(layer, caption) ;
-        //layerGroups[caption] = L.layerGroup([layer]).addTo(map);
-
-        //layer.addTo(map) ;
 
         if (layerGroupsCount == layerGroupsTotalCount) {
-            
+            layerControl = L.control.layers(null, layerGroups, {collapsed: true, position: 'topleft'}).addTo(map) ;
         }
     }) ;
 }
